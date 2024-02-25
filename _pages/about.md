@@ -2,12 +2,12 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: PhD Student at MIT
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: justin.png
+  image_circular: true # crops the image to make it circular
   more_info:
 
 news: false # includes a list of news items
@@ -16,8 +16,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+**Welcome!** I am a fourth year graduate student studying theoretical computer science in the EECS department at MIT. I am very fortunate to be advised by Piotr Indyk.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I like in problems at the intersection of algorithms, data analysis, and machine learning. Recently, I have been interested in optimizing repeated computations (e.g., algorithms with predictions), streaming and sketching algorithms, and differential privacy.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Before coming to MIT, I was an undergrad at Stanford University and had the great pleasure of working with Greg Valiant and Peter Bailis. It all started in Hanover, New Hampshire with Chris Polashenski at the Cold Regions Research and Engineering Laboratory.
+
+Feel free to reach out to me at {first 4 letters of first name}{first letter of last name}@mit.edu.
