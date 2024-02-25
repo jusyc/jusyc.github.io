@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-**Welcome!** I am a fourth year graduate student studying theoretical computer science in the EECS department at MIT. I am very fortunate to be advised by Piotr Indyk.
+**Welcome!** I am a fourth year graduate student studying theoretical computer science in the Electrical Engineering and Computer Science department at MIT. I am very fortunate to be advised by Piotr Indyk.
 
 I like in problems at the intersection of algorithms, data analysis, and machine learning. Recently, I have been interested in optimizing repeated computations (e.g., algorithms with predictions), streaming and sketching algorithms, and differential privacy.
 
