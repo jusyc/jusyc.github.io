@@ -2,7 +2,7 @@
 ---
 <div class="row">
   {% if site.enable_publication_thumbnails %}
-    <div class="col-sm-2 {% if entry.preview %}preview{% else %}abbr{% endif %}">
+    <div class="col-sm-3 {% if entry.preview %}preview{% else %}abbr{% endif %}">
       {% if entry.preview %}
         {% if entry.preview contains '://' %}
           <img class="preview z-depth-1 rounded" src="{{ entry.preview }}">
@@ -51,15 +51,10 @@
         {% assign author_array_limit = site.max_author_limit %}
       {% endif %}
 
-      {%- if entry.author_order -%}
-        {%- if entry.author_order == 'contrib' -%}
-          *
-        {% endif %}
-      {% endif %}
-
       {%- for author in entry.author_array limit: author_array_limit -%}
         {% assign author_is_self = false %}
         {%- assign author_last_name = author.last | remove: '¶' | remove: '&' | remove: '*' | remove: '†' | remove: '^' -%}
+        {%- assign author_last_name = author_last_name | replace: "ễ", "e" -%}
         {% if site.scholar.last_name contains author_last_name %}
           {% if site.scholar.first_name contains author.first %}
             {% assign author_is_self = true %}
@@ -151,10 +146,16 @@
     {% if entry.year %}
       {% capture entryyear %}{{ " " }}{{entry.year}}{% endcapture %}
     {% endif %}
+
     {% assign entrytype_text = entrytype | strip_html | strip %}
     {% capture periodical %}{{ entrytype }}{% if entrytype_text != "" and entryyear != "" %}, {% endif %}{{ entrymonth }}{{ entryyear }}{% endcapture %}
     <div class="periodical">
       {{ periodical | strip }}
+
+      <!-- Awards -->
+      {% if entry.award %}
+        <i><b> ({{ entry.award }}) </b></i>
+      {% endif %}
     </div>
     <div class="periodical">
       {{ entry.note | strip }}

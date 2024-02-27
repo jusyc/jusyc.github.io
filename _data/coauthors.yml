@@ -1,3 +1,105 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"aamand":
+  - firstname: ["Anders", "Anders Aamand"]
+    url: https://www.andersaamand.com/
+
+"andoni":
+  - firstname: ["Alexandr", "Alexandr Andoni", "Alex", "Alex Andoni"]
+    url: https://www.cs.columbia.edu/~andoni/
+
+"bailis":
+  - firstname: ["Peter", "Peter Bailis"]
+    url: http://www.bailis.org/
+
+"eden":
+  - firstname: ["Talya", "Talya Eden"]
+    url: https://sites.google.com/view/edentalya/home
+
+"gan":
+  - firstname: ["Edward", "Edward Gan"]
+    url: https://edgan8.github.io/
+
+"ghazi":
+  - firstname: ["Badih", "Badih Ghazi"]
+    url: https://sites.google.com/view/badihghazi/home
+
+"indyk":
+  - firstname: ["Piotr", "Piotr Indyk"]
+    url: https://people.csail.mit.edu/indyk/
+
+"kumar":
+  - firstname: ["Ravi", "Ravi Kumar"]
+    url: https://sites.google.com/site/ravik53/
+
+"lin":
+  - firstname: ["Honghao", "Honghao Lin"]
+    url: https://honghlin.github.io/
+
+"liu":
+  - firstname: ["Allen", "Allen Liu"]
+    url: https://aliu42.github.io/
+
+"manurangsi":
+  - firstname: ["Pasin", "Pasin Manurangsi"]
+    url: https://pasin30055.github.io/
+
+"narayanan":
+  - firstname: ["Shyam", "Shyam Narayanan"]
+    url: https://sites.google.com/view/shyamnarayanan/home
+
+"nelson":
+  - firstname: ["Jelani", "Jelani Nelson"]
+    url: https://people.eecs.berkeley.edu/~minilek/
+
+"nguyen":
+  - firstname: ["Huy", "Huy Le", "Huy Lê", "Huy Lê Nguyễn", "Huy Le Nguyen"]
+    url: https://www.khoury.northeastern.edu/home/hlnguyen/
+
+"rong":
+  - firstname: ["Kexin", "Kexin Rong"]
+    url: https://kexinrong.github.io/
+
+"rubinfeld":
+  - firstname: ["Ronitt", "Ronitt Rubinfeld"]
+    url: https://people.csail.mit.edu/ronitt/
+
+"schiefer":
+  - firstname: ["Nicholas", "Nicholas Schiefer"]
+    url: https://nicholasschiefer.com/
+
+"silwal":
+  - firstname: ["Sandeep", "Sandeep Silwal"]
+    url: https://sandeepsilwal.com/
+
+"sukprasert":
+  - firstname: ["Pattara", "Pattara Sukprasert"]
+    url: https://pattaras.github.io/
+
+"suri":
+  - firstname: ["Sahaana", "Sahaana Suri"]
+    url: https://cs.stanford.edu/~sahaana/
+
+"vakilian":
+  - firstname: ["Ali", "Ali Vakilian"]
+    url: https://www.mit.edu/~vakilian/
+
+"valiant":
+  - firstname: ["Greg", "Greg Valiant", "Gregory", "Gregory Valiant"]
+    url: https://theory.stanford.edu/~valiant/
+  - firstname: ["Paul", "Paul Valiant"]
+    url: https://www.cs.purdue.edu/homes/pvaliant/index.htm
+
+"wagner":
+  - firstname: ["Tal", "Tal Wagner"]
+    url: https://www.mit.edu/~talw/
+
+"woodruff":
+  - firstname: ["David", "David P.", "David Woodruff", "David P. Woodruff"]
+    url: https://www.cs.cmu.edu/~dwoodruf/
+
+"xu":
+  - firstname: ["Yinzhan", "Yinzhan Xu"]
+    url: https://www.mit.edu/~xyzhan/
+
+"zhang":
+  - firstname: ["Fred", "Fred Zhang"]
+    url: https://fredzhang.me/
