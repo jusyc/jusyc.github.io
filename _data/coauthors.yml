@@ -26,6 +26,10 @@
   - firstname: ["Piotr", "Piotr Indyk"]
     url: https://people.csail.mit.edu/indyk/
 
+"kleinberg":
+  - firstname: ["Jon"]
+    url: https://www.cs.cornell.edu/home/kleinber/
+
 "kumar":
   - firstname: ["Ravi", "Ravi Kumar"]
     url: https://sites.google.com/site/ravik53/
@@ -42,6 +46,10 @@
   - firstname: ["Pasin", "Pasin Manurangsi"]
     url: https://pasin30055.github.io/
 
+"mullainathan":
+  - firstname: ["Sendhil"]
+    url: https://sendhil.org/
+
 "narayanan":
   - firstname: ["Shyam", "Shyam Narayanan"]
     url: https://sites.google.com/view/shyamnarayanan/home
@@ -53,6 +61,10 @@
 "nguyen":
   - firstname: ["Huy", "Huy Le", "Huy Lê", "Huy Lê Nguyễn", "Huy Le Nguyen"]
     url: https://www.khoury.northeastern.edu/home/hlnguyen/
+
+"rambachan":
+  - firstname: ["Ashesh"]
+    url: https://economics.mit.edu/people/faculty/ashesh-rambachan
 
 "rong":
   - firstname: ["Kexin", "Kexin Rong"]
@@ -77,6 +89,10 @@
 "suri":
   - firstname: ["Sahaana", "Sahaana Suri"]
     url: https://cs.stanford.edu/~sahaana/
+
+"vafa":
+  - firstname: ["Keyon"]
+    url: https://keyonvafa.com/
 
 "vakilian":
   - firstname: ["Ali", "Ali Vakilian"]
