@@ -10,6 +10,10 @@
   - firstname: ["Peter", "Peter Bailis"]
     url: http://www.bailis.org/
 
+"dalirrooyfard":
+  - firstname: ["Mina", "Mina Dalirrooyfard"]
+    url: https://people.csail.mit.edu/minadrf/
+
 "eden":
   - firstname: ["Talya", "Talya Eden"]
     url: https://sites.google.com/view/edentalya/home
@@ -46,6 +50,10 @@
   - firstname: ["Pasin", "Pasin Manurangsi"]
     url: https://pasin30055.github.io/
 
+"mitrovic":
+  - firstname: ["Slobodan", "Slobodan Mitrovic", "Slobodan Mitrović"]
+    url: https://web.cs.ucdavis.edu/~mitrovic/
+
 "mullainathan":
   - firstname: ["Sendhil"]
     url: https://sendhil.org/
@@ -57,6 +65,10 @@
 "nelson":
   - firstname: ["Jelani", "Jelani Nelson"]
     url: https://people.eecs.berkeley.edu/~minilek/
+
+"nevmyvaka":
+  - firstname: ["Yuriy", "Yuriy Nevmyvaka"]
+    url: https://scholar.google.com/citations?hl=en&user=Hui4EIcAAAAJ
 
 "nguyen":
   - firstname: ["Huy", "Huy Le", "Huy Lê", "Huy Lê Nguyễn", "Huy Le Nguyen"]
