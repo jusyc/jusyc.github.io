@@ -16,10 +16,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-**Welcome!** I am a fifth year graduate student studying theoretical computer science in the Electrical Engineering and Computer Science department at MIT. I am very fortunate to be advised by Piotr Indyk.
+**Welcome!** I am a fifth year graduate student studying theoretical computer science in the Electrical Engineering and Computer Science department at MIT. I am very happy to be advised by [Piotr Indyk](https://people.csail.mit.edu/indyk/).
 
-I like problems at the intersection of algorithms, data analysis, and machine learning. Recently, I have been interested in optimizing repeated computations (e.g., algorithms with predictions), streaming and sketching algorithms, and differential privacy.
+I think about the intersection of **algorithm design**, **data analysis**, and **machine learning**. Recently, I have been interested in optimizing repeated computations (*learning-augmented algorithms*), analyzing data with limited memory (*streaming and sketching algorithms*), and designing algorithms which hide individuals' sensitive information (*differential privacy*).
 
-Before coming to MIT, I was an undergrad at Stanford University and had the great pleasure of working with Greg Valiant and Peter Bailis. It all started in Hanover, New Hampshire with Chris Polashenski at the Cold Regions Research and Engineering Laboratory.
+During my PhD, I have been fortunate to work with [Morteza Zadimoghaddam](https://research.google/people/mortezazadimoghaddam/), [Alessandro Epasto](https://www.epasto.org/), and [Vincent Cohen-Addad](https://www.di.ens.fr/~vcohen/) at Google Research and [Nina Mishra](http://theory.stanford.edu/~nmishra/) and [Tal Wagner](https://www.mit.edu/~talw/) at AWS. Previously, I was an undergrad at Stanford University and had the great pleasure of working with [Greg Valiant](https://theory.stanford.edu/~valiant/) and [Peter Bailis](http://www.bailis.org/). It all started in Hanover, New Hampshire with [Chris Polashenski](https://scholar.google.ca/citations?user=J_AqH3wAAAAJ&hl=en) at the Cold Regions Research and Engineering Laboratory.
 
 Feel free to reach out to me at {first 4 letters of first name}{first letter of last name}@mit.edu.
+
