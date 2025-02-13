@@ -26,6 +26,10 @@
   - firstname: ["Badih", "Badih Ghazi"]
     url: https://sites.google.com/view/badihghazi/home
 
+"gollapudi":
+  - firstname: ["Siddharth", "Siddharth Gollapudi"]
+    url: https://siddharthgollapudi.com/
+
 "indyk":
   - firstname: ["Piotr", "Piotr Indyk"]
     url: https://people.csail.mit.edu/indyk/
@@ -103,7 +107,7 @@
     url: https://cs.stanford.edu/~sahaana/
 
 "vafa":
-  - firstname: ["Keyon"]
+  - firstname: ["Keyon", "Keyon Vafa"]
     url: https://keyonvafa.com/
 
 "vakilian":
@@ -123,6 +127,10 @@
 "woodruff":
   - firstname: ["David", "David P.", "David Woodruff", "David P. Woodruff"]
     url: https://www.cs.cmu.edu/~dwoodruf/
+  
+"wu":
+  - firstname: ["Hao", "Hao Wu"]
+    url: https://sites.google.com/view/haowu/home
 
 "xu":
   - firstname: ["Yinzhan", "Yinzhan Xu"]
