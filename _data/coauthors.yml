@@ -10,6 +10,10 @@
   - firstname: ["Peter", "Peter Bailis"]
     url: http://www.bailis.org/
 
+"cohen-addad":
+  - firstname: ["Vincent", "Vincent Cohen-Addad"]
+    url: https://www.di.ens.fr/~vcohen/
+
 "dalirrooyfard":
   - firstname: ["Mina", "Mina Dalirrooyfard"]
     url: https://people.csail.mit.edu/minadrf/
@@ -17,6 +21,10 @@
 "eden":
   - firstname: ["Talya", "Talya Eden"]
     url: https://sites.google.com/view/edentalya/home
+
+"epasto":
+  - firstname: ["Alessandro", "Alessandro Epasto"]
+    url: https://www.epasto.org/
 
 "gan":
   - firstname: ["Edward", "Edward Gan"]
@@ -137,6 +145,10 @@
     url: https://www.mit.edu/~xyzhan/
   - firstname: ["Haike", "Haike Xu"]
     url: https://www.haikexu.com/
+
+"zadimoghaddam":
+  - firstname: ["Morteza", "Morteza Zadimoghaddam"]
+    url: https://research.google/people/mortezazadimoghaddam/
 
 "zhang":
   - firstname: ["Fred", "Fred Zhang"]
