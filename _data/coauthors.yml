@@ -62,13 +62,21 @@
   - firstname: ["Pasin", "Pasin Manurangsi"]
     url: https://pasin30055.github.io/
 
+"mishra":
+  - firstname: ["Nina", "Nina Mishra"]
+    url: http://theory.stanford.edu/~nmishra/
+
 "mitrovic":
   - firstname: ["Slobodan", "Slobodan Mitrovic", "Slobodan Mitrović"]
     url: https://web.cs.ucdavis.edu/~mitrovic/
 
 "mullainathan":
-  - firstname: ["Sendhil"]
+  - firstname: ["Sendhil, Sendhil Mullainathan"]
     url: https://sendhil.org/
+
+"nagesh":
+  - firstname: ["Supriya", "Supriya Nagesh"]
+    url: https://scholar.google.com/citations?user=i5qnTjAAAAAJ&hl=en
 
 "narayanan":
   - firstname: ["Shyam", "Shyam Narayanan"]
