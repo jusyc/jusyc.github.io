@@ -18,3 +18,32 @@ $max-content-width: {{ site.max_width }};
   "font-awesome/solid",
   "font-awesome/regular"
 ;
+
+.links .btn {
+  font-size: 0.55em;
+  padding: 0.1em 0.1em;
+  line-height: 0.7em;
+}
+
+.badges a[aria-label="Google Scholar link"] img {
+  height: 14px;
+  max-height: 14px;
+  width: auto;
+  vertical-align: middle;
+}
+
+.title {
+  font-size: 1.00em;
+}
+
+.author {
+  font-size: 0.90em;
+}
+
+.periodical {
+  font-size: 0.90em;
+}
+
+// .periodical i b, .periodical b, .periodical i {
+//   font-size: 0.90em;
+// }

@@ -19,7 +19,7 @@ nav_order: 2
 
 Instructor for MIT Primes CS Circle
 -------------
-In Fall 2024, I co-taught topics in Theoretical Computer Science and Machine Learning to high-school girls in the Boston area along with [Lali Devadas](https://scholar.google.com/citations?user=5hQz_n8AAAAJ&hl=en) and [Yael Kirkpatrick](https://scholar.google.com/citations?user=WSKyZpIAAAAJ&hl=en). I taught lectures on streaming algorithms, machine learning in the context of linear regression, and an introduction to deep learning.
+In Fall 2024, I co-taught topics in Theoretical Computer Science and Machine Learning to high-school girls in the Boston area along with [Lali Devadas](https://www.lalidevadas.com/) and [Yael Kirkpatrick](https://scholar.google.com/citations?user=WSKyZpIAAAAJ&hl=en). I taught lectures on streaming algorithms, machine learning in the context of linear regression, and an introduction to deep learning.
 <br>
 
 Teaching Assistant for 6.5320 (Geometric Computing)

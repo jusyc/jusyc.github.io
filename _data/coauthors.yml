@@ -71,7 +71,7 @@
     url: https://web.cs.ucdavis.edu/~mitrovic/
 
 "mullainathan":
-  - firstname: ["Sendhil, Sendhil Mullainathan"]
+  - firstname: ["Sendhil", "Sendhil Mullainathan"]
     url: https://sendhil.org/
 
 "nagesh":
@@ -150,7 +150,7 @@
 
 "xu":
   - firstname: ["Yinzhan", "Yinzhan Xu"]
-    url: https://www.mit.edu/~xyzhan/
+    url: https://xuyinzhan.github.io/
   - firstname: ["Haike", "Haike Xu"]
     url: https://www.haikexu.com/
 
