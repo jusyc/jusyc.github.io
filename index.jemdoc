@@ -1,0 +1,27 @@
+# jemdoc: menu{MENU}{index.html}
+= Justin Y. Chen
+
+{{
+  <figure style="text-align:center">
+    <img src="images/justin.png" alt="Justin" height="200px" style="margin-right:2em">
+    <img src="images/fish_talk.jpg" alt="Streaming" height="200px">
+  </figure>
+}}
+
+== Welcome!
+
+I am a PhD student in my final year at MIT. I study computer science in the [https://toc.csail.mit.edu/ Theory of Computation Group]. I am very happy to be advised by [https://people.csail.mit.edu/indyk/ Piotr Indyk].
+
+I think about problems at the intersection of *algorithm design* and *machine learning*. Recently, I have been crafting algorithms which (1) are optimized for repeated computations, (2) evaluate properties of large language models, or (3) are stable to small input perturbations for privacy and replicability.
+
+During my PhD, I have been fortunate to work at Google Research and AWS. I was an undergrad at Stanford University and had the great pleasure of working with [https://theory.stanford.edu/~valiant/ Greg Valiant] and [http://www.bailis.org/ Peter Bailis]. It all started in Hanover, New Hampshire with [https://scholar.google.ca/citations?user=J_AqH3wAAAAJ&amp;hl=en Chris Polashenski] at the Cold Regions Research and Engineering Laboratory.
+
+Feel free to reach out to me at {first 4 letters of first name}{first letter of last name}@mit.edu.
+
+~~~
+I am looking for postdoc positions starting in Fall 2026!
+~~~
+
+== News
+
+*Apr 2025:* The [https://www.wsj.com/tech/ai/how-ai-thinks-356969f8?st=k9MPzz&reflink=mobilewebshare_permalink Wall Street Journal] wrote about our work on [https://arxiv.org/abs/2406.03689 "Evaluating the World Model Implicit in a Generative Model"].

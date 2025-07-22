@@ -1,0 +1,132 @@
+# jemdoc: menu{MENU}{pubs.html}, nofooter
+= Publications
+Alternatively, see my [https://scholar.google.com/citations?user=X_myU1YAAAAJ&amp;hl=en Google Scholar].
+
+As is the norm in theoretical computer science, authors are ordered alphabetically by last name for most papers. Exceptions use star(s) to indicate first author(s).
+
+== 2025
+
+[https://arxiv.org/abs/2507.02842 On the Structure of Replicable Hypothesis Testers]\n
+Anders Aamand, Maryam Aliakbarpour, _Justin Y. Chen_, Shyam Narayanan, Sandeep Silwal\n
+/Preprint/
+
+[https://arxiv.org/abs/2502.08878 Scalable Private Partition Selection via Adaptive Weighting]\n
+_Justin Y. Chen_, Vincent Cohen-Addad, Alessandro Epasto, Morteza Zadimoghaddam\n
+/ICML 2025/
+
+[https://arxiv.org/abs/2507.01873 Breaking the $n^{1.5}$ Additive Error Barrier for Private and Efficient Graph Sparsification via Private Expander Decomposition]\n
+Anders Aamand, _Justin Y. Chen_, Mina Dalirrooyfard, Slobodan Mitrović, Yuriy Nevmyvaka, Sandeep Silwal, Yinzhan Xu\n
+/ICML 2025/
+
+[https://arxiv.org/abs/2505.23967 Improved Approximations for Hard Graph Problems using Predictions]\n
+Anders Aamand, _Justin Y. Chen_, Siddharth Gollapudi, Sandeep Silwal, Hao Wu\n
+/ICML 2025/
+
+[https://arxiv.org/abs/2503.00937 Learning-Augmented Frequent Directions]\n
+Anders Aamand, _Justin Y. Chen_, Siddharth Gollapudi, Sandeep Silwal, Hao Wu\n
+/ICLR 2025/\n
+*Spotlight Award (top 5% of submitted papers)*
+
+== 2024
+
+[https://arxiv.org/abs/2408.01798 Differentially Private Gomory-Hu Trees]\n
+Anders Aamand, _Justin Y. Chen_, Mina Dalirrooyfard, Slobodan Mitrović, Yuriy Nevmyvaka, Sandeep Silwal, Yinzhan Xu\n
+/Preprint/
+
+[https://arxiv.org/abs/2406.03689 Evaluating the World Model Implicit in a Generative Model]\n
+Keyon Vafa\*, _Justin Y. Chen_, Jon Kleinberg, Sendhil Mullainathan, Ashesh Rambachan\n
+/NeurIPS 2024/\n
+*Spotlight Award (top 3% of submitted papers)*
+
+[https://arxiv.org/abs/2410.23087 Statistical-Computational Tradeoffs for Density Estimation]\n
+Anders Aamand, Alexandr Andoni, _Justin Y. Chen_, Piotr Indyk, Shyam Narayanan, Sandeep Silwal, Haike Xu\n
+/NeurIPS 2024/
+
+[https://arxiv.org/abs/2502.13193 Private Text Generation by Seeding Large Language Model Prompts]\n
+Supriya Nagesh\*, _Justin Y. Chen_\*, Nina Mishra, Tal Wagner\n
+/NeurIPS 2024 Workshop on GenAI for Health: Potential, Trust, and Policy Compliance/
+
+[https://arxiv.org/abs/2311.17868 Space-Optimal Profile Estimation in Data Streams with Applications to Symmetric Functions]\n
+_Justin Y. Chen_, Piotr Indyk, David P. Woodruff\n
+/ITCS 2024/
+
+== 2023
+
+[https://arxiv.org/abs/2312.07535 Improved Frequency Estimation Algorithms with and without Predictions]\n
+Anders Aamand, _Justin Y. Chen_, Huy Lê Nguyễn, Sandeep Silwal, Ali Vakilian\n
+/NeurIPS 2023/\n
+*Spotlight Award (top 4% of submitted papers)*
+
+[https://arxiv.org/abs/2309.16840 Constant Approximation for Individual Preference Stable Clustering]\n
+Anders Aamand, _Justin Y. Chen_, Allen Liu, Sandeep Silwal, Pattara Sukprasert, Ali Vakilian, Fred Zhang\n
+/NeurIPS 2023/\n
+*Spotlight Award (top 4% of submitted papers)*
+
+[https://arxiv.org/abs/2306.11312 Data Structures for Density Estimation]\n
+Anders Aamand, Alexandr Andoni, _Justin Y. Chen_, Piotr Indyk, Shyam Narayanan, Sandeep Silwal\n
+/ICML 2023/
+
+[https://arxiv.org/abs/2304.07652 Learned Interpolation for Better Streaming Quantile Approximation with Worst-Case Guarantees]\n
+Nicholas Schiefer\*, _Justin Y. Chen_, Piotr Indyk, Shyam Narayanan, Sandeep Silwal, Tal Wagner\n
+/ACDA 2023/
+
+[https://arxiv.org/abs/2303.01453 Improved Space Bounds for Learning with Experts]\n
+Anders Aamand, _Justin Y. Chen_, Huy Lê Nguyễn, Sandeep Silwal\n
+/ACDA 2023 (Poster)/\n {{<small>Independent and concurrent work of <a href="https://arxiv.org/abs/2303.01673">Peng and Rubinstein</a> resolves this problem.</small>}}
+
+[https://epubs.siam.org/doi/abs/10.1137/1.9781611977554.ch18 Differentially Private All-Pairs Shortest Path Distances: Improved Algorithms and Lower Bounds]\n
+_Justin Y. Chen_, Badih Ghazi, Ravi Kumar, Pasin Manurangsi, Shyam Narayanan, Jelani Nelson, Yinzhan Xu\n
+/SODA 2023/ \n {{<small>Merge of two independent and concurrent works by Chen, Narayanan, and Xu and by Ghazi, Kumar, Manurangsi, and Nelson.</small>}}
+
+== 2022
+
+[https://arxiv.org/abs/2110.11439 (Optimal) Online Bipartite Matching with Degree Information]\n
+Anders Aamand, _Justin Y. Chen_, Piotr Indyk\n
+/NeurIPS 2022/
+
+[https://arxiv.org/abs/2211.03232 Exponentially Improving the Complexity of Simulating the Weisfeiler-Lehman Test with Graph Neural Networks]\n
+Anders Aamand, _Justin Y. Chen_, Piotr Indyk, Shyam Narayanan, Ronitt Rubinfeld, Nicholas Schiefer, Sandeep Silwal, Tal Wagner\n
+/NeurIPS 2022/
+
+[https://arxiv.org/abs/2207.08686 Streaming Algorithms for Support-Aware Histograms]\n
+_Justin Y. Chen_, Piotr Indyk, Tal Wagner\n
+/ICML 2022/
+
+[https://arxiv.org/abs/2204.12055 Faster Fundamental Graph Algorithms via Learned Predictions]\n
+_Justin Y. Chen_, Sandeep Silwal, Ali Vakilian, Fred Zhang\n
+/ICML 2022/
+
+[https://arxiv.org/abs/2203.09572 Triangle and Four Cycle Counting with Predictions in Graph Streams]\n
+_Justin Y. Chen_, Talya Eden, Piotr Indyk, Honghao Lin, Shyam Narayanan, Sandeep Silwal, Tal Wagner, David Woodruff, Michael Zhang\n
+/ICLR 2022/
+
+== 2020
+
+[https://arxiv.org/abs/1911.03605 Worst-Case Analysis for Randomly Collected Data]\n
+_Justin Y. Chen_, Gregory Valiant, Paul Valiant\n
+/NeurIPS 2020/\n
+*Oral Award (top 1% of submitted papers)*
+
+== 2019
+
+[https://doi.org/10.1145/3329486.3329491 CrossTrainer: Practical Domain Adaptation with Loss Reweighting]\n
+_Justin Y. Chen_\*, Edward Gan, Kexin Rong, Sahaana Suri, Peter Bailis\n
+/SIGMOD DEEM 2019/
+
+== 2017
+
+[https://doi.org/10.5194/tc-11-1781-2017 Impact of MODIS sensor calibration updates on Greenland Ice Sheet surface reflectance and albedo trends]\n
+Kimberly A. Casey\*, Chris M. Polashenski, _Justin Y. Chen_, Mark Tedesco\n
+/The Cryosphere 2017/
+
+== 2015
+
+[https://doi.org/10.1002/2015GL065912 Neither dust nor black carbon causing apparent albedo decline in Greenland's dry snow zone: Implications for MODIS C5 surface reflectance]\n
+Chris Polashenski\*, Jack E. Dibb, Mark G. Flanner, _Justin Y. Chen_, Alexandra M. Lai, James J. Schauer, Martin M. Shafer, Mark Bergin\n
+/Geophysical Research Letters 2015/
+
+== 2014
+
+[https://doi.org/10.1002/2014GL059806 Observations of pronounced Greenland ice sheet firn warming and implications for runoff production]\n
+Chris Polashenski\*, Zoe Courville, Carl Benson, Anna Wagner, _Justin Y. Chen_, Gifford Wong, Robert Hawley, Dorothy Hall\n
+/Geophysical Research Letters 2014/

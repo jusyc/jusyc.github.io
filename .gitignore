@@ -10,7 +10,4 @@ Gemfile.lock
 node_modules/
 vendor
 
-*.conf
-*.jemdoc
 .vscode/
-MENU
