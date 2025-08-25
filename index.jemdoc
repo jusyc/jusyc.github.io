@@ -12,9 +12,9 @@
 
 I am a PhD student in my final year at MIT. I study computer science in the [https://toc.csail.mit.edu/ Theory of Computation Group]. I am very happy to be advised by [https://people.csail.mit.edu/indyk/ Piotr Indyk].
 
-I think about problems at the intersection of *algorithm design* and *machine learning*. Recently, I have been crafting algorithms which interact with powerful but untrustworthy AI models (/learning-augmented algorithms and LLM evaluation/) as well as algorithms which are stable to small changes in their inputs (/differential privacy and replicability/).
+I think about problems at the intersection of *algorithm design* and *machine learning*. Recently, I have been crafting algorithms which (1) interact with powerful but untrustworthy AI models (/learning-augmented algorithms and LLM evaluation/), (2) are stable to small changes in their inputs (/differential privacy and replicability/), and (3) efficiently learn with as little data and compute as possible.
 
-During my PhD, I have been fortunate to work at Google Research and AWS. I was an undergrad at Stanford University and had the great pleasure of working with [https://theory.stanford.edu/~valiant/ Greg Valiant] and [http://www.bailis.org/ Peter Bailis]. It all started in Hanover, New Hampshire with [https://scholar.google.ca/citations?user=J_AqH3wAAAAJ&amp;hl=en Chris Polashenski] at the Cold Regions Research and Engineering Laboratory.
+During my PhD, I have been fortunate to be supported by the NSF Graduate Research Fellowship and MathWorks Engineering Fellowship and to work at Google Research and AWS. I was an undergrad at Stanford University and had the great pleasure of working with [https://theory.stanford.edu/~valiant/ Greg Valiant] and [http://www.bailis.org/ Peter Bailis]. It all started in Hanover, New Hampshire with [https://scholar.google.ca/citations?user=J_AqH3wAAAAJ&amp;hl=en Chris Polashenski] at the Cold Regions Research and Engineering Laboratory.
 
 Feel free to reach out to me at {first 4 letters of first name}{first letter of last name}@mit.edu.
 
@@ -26,4 +26,4 @@ I am looking for postdoc positions starting in Fall 2026!
 
 *Aug 2025*: [https://research.google/blog/securing-private-data-at-scale-with-differentially-private-partition-selection/ Google Research] highlighted our work [https://arxiv.org/abs/2502.08878 "Scalable Private Partition Selection via Adaptive Weighting"] in a blog post. This was a very interesting project I worked on as a Student Researcher at Google Research.
 
-*Apr 2025:* The [https://www.wsj.com/tech/ai/how-ai-thinks-356969f8?st=k9MPzz&reflink=mobilewebshare_permalink Wall Street Journal] wrote about our work on [https://arxiv.org/abs/2406.03689 "Evaluating the World Model Implicit in a Generative Model"].
+*Apr 2025:* The [https://www.wsj.com/tech/ai/how-ai-thinks-356969f8 Wall Street Journal] wrote about our work on [https://arxiv.org/abs/2406.03689 "Evaluating the World Model Implicit in a Generative Model"].
