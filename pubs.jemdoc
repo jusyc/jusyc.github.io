@@ -6,9 +6,9 @@ As is the norm in theoretical computer science, authors are ordered alphabetical
 
 == 2025
 
-Hypothesis Selection: A High Probability Conundrum\n
+[https://arxiv.org/abs/2509.03734 Hypothesis Selection: A High Probability Conundrum]\n
 Anders Aamand, Maryam Aliakbarpour, _Justin Y. Chen_, Sandeep Silwal\n
-/Preprint (appearing soon)/
+/Preprint/
 
 [https://arxiv.org/abs/2507.02842 On the Structure of Replicable Hypothesis Testers]\n
 Anders Aamand, Maryam Aliakbarpour, _Justin Y. Chen_, Shyam Narayanan, Sandeep Silwal\n
@@ -40,7 +40,7 @@ Anders Aamand, _Justin Y. Chen_, Mina Dalirrooyfard, Slobodan Mitrović, Yuriy N
 [https://arxiv.org/abs/2406.03689 Evaluating the World Model Implicit in a Generative Model]\n
 Keyon Vafa\*, _Justin Y. Chen_, Jon Kleinberg, Sendhil Mullainathan, Ashesh Rambachan\n
 /NeurIPS 2024/\n
-*Spotlight Award (top 3% of submitted papers)* \n {{<small>Featured in a <a href="https://www.wsj.com/tech/ai/how-ai-thinks-356969f8">Wall Street Journal article</a>.</small>}}
+*Spotlight Award (top 3% of submitted papers)* \n {{<small>Featured in the <a href="https://www.wsj.com/tech/ai/how-ai-thinks-356969f8">Wall Street Journal</a> and <a href="https://www.quantamagazine.org/world-models-an-old-idea-in-ai-mount-a-comeback-20250902/">Quanta Magazine</a>.</small>}}
 
 [https://arxiv.org/abs/2410.23087 Statistical-Computational Tradeoffs for Density Estimation]\n
 Anders Aamand, Alexandr Andoni, _Justin Y. Chen_, Piotr Indyk, Shyam Narayanan, Sandeep Silwal, Haike Xu\n
