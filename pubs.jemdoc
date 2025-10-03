@@ -4,14 +4,16 @@ Alternatively, see my [https://scholar.google.com/citations?user=X_myU1YAAAAJ&am
 
 As is the norm in theoretical computer science, authors are ordered alphabetically by last name for most papers. Exceptions use star(s) to indicate first author(s).
 
+== 2026
+
+[https://arxiv.org/abs/2507.02842 On the Structure of Replicable Hypothesis Testers]\n
+Anders Aamand, Maryam Aliakbarpour, _Justin Y. Chen_, Shyam Narayanan, Sandeep Silwal\n
+/SODA 2026/
+
 == 2025
 
 [https://arxiv.org/abs/2509.03734 Hypothesis Selection: A High Probability Conundrum]\n
 Anders Aamand, Maryam Aliakbarpour, _Justin Y. Chen_, Sandeep Silwal\n
-/Preprint/
-
-[https://arxiv.org/abs/2507.02842 On the Structure of Replicable Hypothesis Testers]\n
-Anders Aamand, Maryam Aliakbarpour, _Justin Y. Chen_, Shyam Narayanan, Sandeep Silwal\n
 /Preprint/
 
 [https://arxiv.org/abs/2408.01798 Differentially Private Gomory-Hu Trees]\n
