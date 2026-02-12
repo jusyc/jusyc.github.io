@@ -6,15 +6,19 @@ As is the norm in theoretical computer science, authors are ordered alphabetical
 
 == 2026
 
+[https://arxiv.org/abs/2509.03734 How fast can you find a good hypothesis?]\n
+Anders Aamand, Maryam Aliakbarpour, _Justin Y. Chen_, Sandeep Silwal\n
+/Preprint/
+
+[https://arxiv.org/abs/2602.10360 Skirting Additive Error Barriers for Private Turnstile Streams]\n
+Anders Aamand, _Justin Y. Chen_, Sandeep Silwal\n
+/ICLR 2026/
+
 [https://arxiv.org/abs/2507.02842 On the Structure of Replicable Hypothesis Testers]\n
 Anders Aamand, Maryam Aliakbarpour, _Justin Y. Chen_, Shyam Narayanan, Sandeep Silwal\n
 /SODA 2026/
 
 == 2025
-
-[https://arxiv.org/abs/2509.03734 Hypothesis Selection: A High Probability Conundrum]\n
-Anders Aamand, Maryam Aliakbarpour, _Justin Y. Chen_, Sandeep Silwal\n
-/Preprint/
 
 [https://arxiv.org/abs/2408.01798 Differentially Private Gomory-Hu Trees]\n
 Anders Aamand, _Justin Y. Chen_, Mina Dalirrooyfard, Slobodan Mitrović, Yuriy Nevmyvaka, Sandeep Silwal, Yinzhan Xu\n
@@ -80,7 +84,7 @@ Nicholas Schiefer\*, _Justin Y. Chen_, Piotr Indyk, Shyam Narayanan, Sandeep Sil
 Anders Aamand, _Justin Y. Chen_, Huy Lê Nguyễn, Sandeep Silwal\n
 /ACDA 2023 (Poster)/\n {{<small>Independent and concurrent <a href="https://arxiv.org/abs/2303.01673">work</a> of Peng and Rubinstein resolves this problem.</small>}}
 
-[https://epubs.siam.org/doi/abs/10.1137/1.9781611977554.ch18 Differentially Private All-Pairs Shortest Path Distances: Improved Algorithms and Lower Bounds]\n
+[https://epubs.siam.org/doi/abs/10.1137/1.9781611977554.ch184 Differentially Private All-Pairs Shortest Path Distances: Improved Algorithms and Lower Bounds]\n
 _Justin Y. Chen_, Badih Ghazi, Ravi Kumar, Pasin Manurangsi, Shyam Narayanan, Jelani Nelson, Yinzhan Xu\n
 /SODA 2023/ \n {{<small>Merge of two independent and concurrent works by Chen, Narayanan, and Xu and by Ghazi, Kumar, Manurangsi, and Nelson.</small>}}
 
